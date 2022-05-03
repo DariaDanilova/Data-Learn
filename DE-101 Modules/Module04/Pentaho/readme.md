@@ -1,4 +1,4 @@
-1) Download a file from the github and save it on the computer.
+1) Download file from the github and save it on the computer.
 2) Merge 3 tables into 1.
 3) Split data into different formats.
     * save the product information in JSON format.
