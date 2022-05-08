@@ -1,4 +1,4 @@
-# Knime workflow
+# KNIME workflow
 In this project, I will upload data from several sources: xlsx and csv files. And then I will calculate the total weight of orders in the context of each employee and each year by making a pivot table.
 
 ![image](https://user-images.githubusercontent.com/61746700/167296930-622017b0-bce1-4b08-800b-094eef283ecf.png)
