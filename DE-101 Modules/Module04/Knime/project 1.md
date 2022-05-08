@@ -12,7 +12,7 @@ After that, the lines with undelivered orders are deleted. Next, the data is com
 
 ![image](https://user-images.githubusercontent.com/61746700/167296874-13e252b4-93f2-490c-a4a1-4cd3650533e8.png)
 
-Now the total weight of orders is calculated for each employee and for each year. The columns are sorted, and the 1998 column is sorted. The result is written to an xlsx file.
+Now the total weight of orders is calculated for each employee and for each year. The order of the columns is determined, and the values of the columns 1998 are sorted. The result is written to an xlsx file.
 
 ![image](https://user-images.githubusercontent.com/61746700/167296895-248626b5-2933-4dc4-b234-acd9311c0fdb.png)
 
