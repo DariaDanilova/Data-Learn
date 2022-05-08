@@ -1,5 +1,5 @@
 
-# Knime Workflow
+# KNIME Workflow
 This project is a transformation of Project 1. In the context of each country and each month of 1998, the number of orders made by citizens of these countries is calculated.
 
 ![image](https://user-images.githubusercontent.com/61746700/167297384-bbd0e031-7e24-401e-b073-4cd38003b293.png)
